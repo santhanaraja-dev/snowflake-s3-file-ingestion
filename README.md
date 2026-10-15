@@ -1,6 +1,3 @@
-# snowflake-s3-file-ingestion
-
-
 # Snowflake S3 File Ingestion
 
 A practice project that loads customer CSV files from AWS S3 into Snowflake using a storage integration, external stage, external table, view and Snowpipe auto-ingest.
